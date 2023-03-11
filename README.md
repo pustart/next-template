@@ -12,3 +12,4 @@ Main points:
 - `node.js` debug
 - eslint
 - stylelint
+- VisualStudio code debug config
