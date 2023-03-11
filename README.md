@@ -3,6 +3,10 @@
 In this repository you can find templates for next.js projects.
 Each branch is a separate boilerplate.
 
+You can clone necessary branch using `git clone`:
+
+` git clone –single-branch –branch <branch-name> <repository-link>`
+
 ## next-12
 
 Main points:
