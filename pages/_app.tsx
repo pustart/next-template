@@ -7,7 +7,7 @@ import React from 'react';
 function MyApp({ Component, pageProps }: AppProps): JSX.Element {
   return <>
     <Head>
-      <title>MyTop - наш лучший топ</title>
+      <title>Next 12 template</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
     <Component {...pageProps} />
